@@ -1,5 +1,4 @@
 
-########################### Fait par Papa Amadou NIANG ################################
 
 # Imporation de la base Table de coversion et cereales
 
